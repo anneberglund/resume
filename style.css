@@ -1,0 +1,222 @@
+.outline {
+	border: 2px solid black;
+       
+}
+.main {
+	width: 100vw;
+	height: auto;
+	font-family: 'Roboto Condensed', sans-serif;
+	color: #525355;
+}
+h5 {
+	font-size: 18px;
+}
+h6 {
+	font-size: 16px;
+}
+h1, h2, h3, h4, h5, h6, p {
+	margin: 5px 0px;
+}
+.grey {
+	color: #888888;
+}
+.header {
+	background-color: #6892d5;
+	width: 100vw;
+	height: 75px;
+}
+.name {
+ width 100%;
+ text-align: center;
+ margin: 3% 0;
+}
+.name h1{
+	font-size: 3rem;
+	font-weight: 400;
+	line-height: 3.5rem;
+}
+.name h2{
+	font-weight: 300;
+	font-size: 1.5rem;
+}
+.about-me {
+	width: 100vw;
+	height: auto;
+	background-color: #efefef;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+
+.about-text {
+	width: 50%;
+	align-self: center;
+}
+.about-text h5{
+	padding: 0 10%;
+}
+.about-text p{
+	font-weight: lighter;
+	font-size: 15px;
+	padding: 0 10%;
+}
+.contact {
+	width: 25%;
+	font-size: 15px;
+	font-weight: lighter;
+	padding: 1% 0;
+}
+.one {
+	background-color: #d5d5d5;
+}
+.contact p{
+	padding: 0 10%;
+}
+.c-link {
+	text-decoration: none;
+	color: #888888;
+}
+/*. BEGINNING OF SECOND HALF OF PAGE */
+.big-section {
+	background-color: #f5f5f5;
+	padding-bottom: 5%;
+}
+.experience {
+	padding: 0 0 2.5% 0;
+}
+.experience-heading {
+	width: 90%;
+	height: auto;
+	display: block;
+	margin: 0 auto;
+	background-color: #f5f5f5;
+	padding: 0 0 2.5% 0;
+	
+}
+.experience-heading h3{
+	margin: 0;
+	padding-top: 2%;
+	font-size: 1.5rem;
+}
+.experience-heading hr{
+	height: 2px;
+	border: 0;
+	background-color: #6892d5;
+}
+.experience-text {
+	width: 100%;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+.job {
+	width: 30%;
+}
+.job p{
+	padding-right: 5%;
+}
+.other-info {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	flex-wrap: wrap;
+	margin: 0 5%;
+}
+.bg-wht {
+	background-color: white;
+}
+.education-title {
+	background-color: #6892d5;	
+}
+.education-title h4{
+	margin: 0;
+	padding: 5px 0;
+	color: #fffefd;
+}
+.other-info h4{
+	font-size: 1.5rem; 
+}
+span {
+	color: #6892d5;
+}
+.div-1 {
+	width: 360px;
+	height: auto;
+	text-align: center;
+}
+.other-instruction h4{
+	color: #6892d5;
+}
+/*. BEGINNING OF DIV-2 */
+.div-2 {
+	width: 480px;
+	height: auto;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	flex-wrap: wrap;
+}
+.languages {
+	padding-bottom: 3%;
+	text-align: center;
+}
+.lang {
+	background-color: #d5d5d5;
+	border-radius: 20px;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	flex-wrap: wrap;
+	width: 90%;
+	margin-left: 5%;
+}
+.recognition {
+	padding: 3%;
+}
+.thank-you {
+	text-align: center;
+	padding: 3% 0;
+}	
+	
+/*. BEGINNING OF DIV-3 */
+.div-3 {
+	width: 250px;
+	height: auto;
+	text-align: center;
+}
+.div-3 h5,p{
+	color: #888888;
+}
+/*. BEGINNING OF DIV-4 */
+.div-4 {
+	width: 125px;
+	height: auto;
+	text-align: center;
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	background-color: white;
+}
+.icon-awesome {
+	width: 100%;
+	margin: 14% 0;
+}
+.cog {
+	background-color: #6892d5;
+	padding: 5px 0;
+}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
